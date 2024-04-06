@@ -2,7 +2,7 @@
 This repository is about the proposal of the technical parts that I have performed on the Mental Health dataset which I have downloaded from the Kaggle
 ## Introduction - 
 
-In this proposal, I am going to do some data wrangling with the Timestamp column which contains both the date and timestamp for the dataser. I am going to split the Timestamp column into different columns named Date and Time. This will allow better readability and faster access to the data when it contains either Date or Time. 
+In this proposal, I am going to do some data wrangling with the Timestamp column which contains both the date and timestamp for the dataset. I am going to split the Timestamp column into different columns named Date and Time. This will allow better readability and faster access to the data when it contains either Date or Time. 
 
 ## Background - 
 
