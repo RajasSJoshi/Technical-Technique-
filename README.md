@@ -1,4 +1,4 @@
-# Technical_Presentation_Proposal
+# Technical Presentation
 This repository is about the proposal of the technical parts that I have performed on the Mental Health dataset which I have downloaded from the Kaggle
 ## Introduction - 
 
